@@ -7,16 +7,16 @@ public class Greeting {
     /** int value of locality. Mutable */
     private int localityID;
 
-    /** name of the locality */
+    /** name of the locality. */
     private String localityName;
 
-    /** greeting string in ascii code */
+    /** greeting string in ascii code. */
     private String asciiGreeting;
 
-    /** greeting string in unicode */
+    /** greeting string in unicode. */
     private String unicodeGreeting;
 
-    /** format string for the greeting */
+    /** format string for the greeting. */
     private String formatStr;
 
     /**
