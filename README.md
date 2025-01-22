@@ -1,8 +1,8 @@
-**Name:**
+**Name:** Chun-Wen Hsueh
 
-**Github Account name:**
+**Github Account name:** ChunWen Hsueh
 
-**Link to Assignment on Github:** (copy and paste the link to your assignment repo here)
+**Link to Assignment on Github:** https://github.com/5004-SEA-Fa24-Geeng/hello-world-ChunWenHsueh
 
 How many hours did it take you to complete this assignment (estimate)?
 
